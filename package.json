@@ -1,6 +1,6 @@
 {
   "name": "sensor_bmp085",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A node.js-module for the BMP085 pressure and temperatur sensor",
   "main": "bmp085.js",
   "dependencies": {
